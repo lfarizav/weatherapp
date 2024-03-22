@@ -37,3 +37,4 @@ docker run -p 8080:8080 -e OPENWEATHERMAP_API_KEY=your_api_key_here weatherapp
 > Replace your_api_key_here with your actual OpenWeatherMap API key.
 The weather API will be accessible at http://localhost:8080/weather?city=CityName.
 
+# weather
